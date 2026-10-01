@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance 2.5 高燃打斗导演"
+  short_description: "通用打斗推导引擎：一句剧情自动推导任意题材（仙侠/武侠/现代/科幻/巨兽/群战）的高燃打斗脚本与可直贴 Seedance 2.5 提示词，支持直出版、分段版、资产图提示词与诊断优化"
+  default_prompt: "使用 $seedance-2-5-fight-director，把我的角色、场景或一句剧情自动编排成动作凌厉、受力真实、特效连贯的 Seedance 2.5 高燃打斗脚本与紧凑提示词；仙侠、武侠、现代格斗、机甲科幻、巨兽或群战割草都可以，信息不全就用合理默认直接写。"
